@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Advance Javascript , MERN**
 
-- 👯 I’m looking to collaborate on **on Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **React, HTML/CSS, JS**
 
