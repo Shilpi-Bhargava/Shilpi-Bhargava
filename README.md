@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shilpi bhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpi bhargava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shilpi-bhargava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shilpi-bhargava/" height="30" width="40" /></a>
 <a href="https://fb.com/shilpi bhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shilpi bhargava" height="30" width="40" /></a>
 <a href="https://instagram.com/jd.jd293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jd.jd293" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shilpibhargava22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shilpibhargava22" height="30" width="40" /></a>
@@ -29,4 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpi-bhargava&show_icons=true&locale=en&layout=compact" alt="shilpi-bhargava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpi-bhargava&" alt="shilpi-bhargava" /></p>
-
